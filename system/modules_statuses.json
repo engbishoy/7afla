@@ -1,0 +1,12 @@
+{
+    "Core": true,
+    "User": true,
+    "Permission": true,
+    "Provider": true,
+    "DashboardProvider": true,
+    "Service": true,
+    "Package": true,
+    "Subscription": true,
+    "Page": true,
+    "BusinessProfile": true
+}
